@@ -1,2 +1,2 @@
 # mylearning
-The simple website created while learning
+A simple website created while learning
